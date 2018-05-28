@@ -1,2 +1,2 @@
 # hello-jenkins
-Super Simple App
+Super duper simple app 
